@@ -1,3 +1,13 @@
+This is the admin panel for NFT Display Project.
+
+The main smart contract is located in the smart-contract.sol file in this repo.
+
+The user-side dApp can be found here: https://github.com/siddhantD07/nft-display-user
+
+The client-side dApp can be found here: https://github.com/siddhantD07/nft-display-client
+
+The project is compatible with all EVM based bloackchains.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
